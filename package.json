@@ -1,0 +1,15 @@
+{
+  "name": "node-nameserver",
+  "version": "0.0.1",
+  "description": "Proof of concept nameserver library inspired by Express",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keijokapp/node-nameserver"
+  },
+  "dependencies": {
+    "debug": "^2.6.6",
+    "nameserver-packet": "https://github.com/keijokapp/nameserver-packet"
+  },
+  "author": "Keijo Kapp <keijo.kapp@gmail.com>",
+  "license": "MIT"
+}
